@@ -9,3 +9,8 @@
 - Feeding this to chatgpt or any ai can easily generate the solution for you. But that will not be helpful to you for now. So do everything from scratch.
 
 - Create a git repository and be committing updates to your repo.
+
+# Links
+- sample api endpoint: https://opentdb.com/api.php?amount=10
+
+- Website to generate the api: https://opentdb.com/api_config.php
