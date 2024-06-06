@@ -18,4 +18,4 @@
 ### Note!!!
 - The components don't all load at the same time. You must wait a couple seconds before you select an answer.
 
-- Link of Game: https://github.com/prabinmagar/quiz-app-using-js-with-open-trivia-DB-api/blob/master/index.html
+- Link of Game: https://www.youtube.com/watch?v=-cX5jnQgqSM
