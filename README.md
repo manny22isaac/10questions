@@ -14,3 +14,8 @@
 - sample api endpoint: https://opentdb.com/api.php?amount=10
 
 - Website to generate the api: https://opentdb.com/api_config.php
+
+### Note!!!
+- The components don't all load at the same time. You must wait a couple seconds before you select an answer.
+
+- Link of Game: https://github.com/prabinmagar/quiz-app-using-js-with-open-trivia-DB-api/blob/master/index.html
